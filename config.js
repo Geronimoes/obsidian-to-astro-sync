@@ -1,6 +1,6 @@
 export default {
-  vaultImagesPath: "PATH_TO_YOUR_VAULT_IMAGES",
-  vaultNotesPath: "PATH_TO_YOUR_VAULT_NOTES",
-  astroImagesPath: "PATH_TO_YOUR_ASTRO_SITE_IMAGES",
-  astroNotesPath: "PATH_TO_YOUR_ASTRO_SITE_CONTENT",
+  vaultImagesPath: "/mnt/notes/notes-sync/notes/obsidian/Published/assets/",
+  vaultNotesPath: "/mnt/notes/notes-sync/notes/obsidian/Published/",
+  astroImagesPath: "/mnt/notes/notes-sync/notes/obsidian/_Other-apps/_www/src/content/assets/",
+  astroNotesPath: "/mnt/notes/notes-sync/notes/obsidian/_Other-apps/_www/src/content/",
 };
